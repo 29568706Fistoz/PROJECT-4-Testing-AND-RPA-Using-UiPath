@@ -37,7 +37,6 @@ Let’s take the web application that you worked on in Project 3 – before the 
 - If the item was created successfully, update the data table record to depict that the record passed testing. If the item was not created, update the data table to depict that the record failed to test
 - Update the Excel spreadsheet with the testing results (Test Results column of the Excel file provided – update with TRUE or FALSE)
 
-
 # Project Close-out
 ### Deploy Solution
 - Publish the UiPath solution to the UiPath Orchestrator
