@@ -10,4 +10,5 @@ UI Automation (2023) Docs.uipath.com. Available at: https://docs.uipath.com/stud
 UiPath - How to loop through rows and columns in Excel and pass values to web search/input (2020). YouTube. 25 March. Available at: https://www.youtube.com/watch?v=LVHwmq7QVmI&amp;list=RDCMUCPdtz4gd_iYebJFYq9N8pWA&amp;index=15 (Accessed: 12 October 2023). 
 UiPath Excel Read Range and Write Range Activity | UiPath Tutorial (2022). YouTube. 23 August. Available at: https://www.youtube.com/watch?v=BBSSle2dGiU&amp;t=282s (Accessed: 11 October 2023). 
 UiPath For Each Activity | For Each Loop in UiPath (2022). YouTube. 23 July. Available at: https://www.youtube.com/watch?v=_NwibFgDq7o (Accessed: 12 October 2023). 
-UiPath | How to automate Excel and work with Data Tables | Tutorial (2020). YouTube. 31 January. Available at: https://www.youtube.com/watch?v=E9GUL53V3-E (Accessed: 12 October 2023). 
+UiPath | How to Automate Excel and Work with Data Tables | Tutorial (2020). YouTube. 31 January. Available at: https://www.youtube.com/watch?v=E9GUL53V3-E (Accessed: 12 October 2023). 
+Pathak, S. et al. (2022) Intelligent system algorithms and applications in science and Technology. Palm Bay, FL, USA: Apple Academic Press. 
