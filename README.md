@@ -1,5 +1,3 @@
-# CMPG-323-Project-4-29568706
-
 # Overview
 Testing is a crucial part of any solution and can be done from many different perspectives; internal development team testing, business user acceptance testing (UAT), etc. Many different types of testing can be conducted on a solution, and user acceptance testing is usually done manually. UAT is often included in most development lifecycles as a crucial step that acts as the ‘go/no-go’ decision maker. UAT is focused on ensuring that the input entered into the solution generates the expected output. Suppose the solution does not generate the desired output. In that case, the solution needs to be amended and retested as it would generally not be published to production unless it passes all tests in UAT. 
 
